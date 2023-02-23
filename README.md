@@ -20,4 +20,4 @@ Aquest repositori està obert a contribucions de qualsevol persona. Si desitges 
 
 Llicència
 
-Aquest repositori es troba sota la llicència GNU. Això significa que pots utilitzar el codi font d'aquest repositori amb finalitats comercials i no comercials, sempre que es respecten les condicions de la llicència.
+Aquest repositori es troba sota la llicència GNU General Public License v3.0. Això significa que pots utilitzar el codi font d'aquest repositori amb finalitats comercials i no comercials, sempre que es respecten les condicions de la llicència.
