@@ -18,6 +18,6 @@ Cada programa ve amb un arxiu README que explica com utilitzar-lo. Alguns progra
 
 Aquest repositori està obert a contribucions de qualsevol persona. Si desitges agregar un programa curt, per favor, crea un pull request i assegura't d'incloure una descripció detallada del programa, com utilitzar-lo i el llenguatge de programació utilitzat.
 
-Llicència
+## Llicència
 
 Aquest repositori es troba sota la llicència GNU General Public License v3.0. Això significa que pots utilitzar el codi font d'aquest repositori amb finalitats comercials i no comercials, sempre que es respecten les condicions de la llicència.
