@@ -8,7 +8,7 @@ Aquest repositori conté una col·lecció de programes curts que tenen diverses 
 
 En aquest repositori pots trobar programes en diversos llenguatges de programació.
 
-Cada programa està situat en una carpeta que indica el llenguatge de programació utilitzat, juntament amb una breu descripció de la seua funció.
+Cada programa està situat en una carpeta que indica el llenguatge de programació utilitzat.
 
 ## Com utilitzar els programes
 
