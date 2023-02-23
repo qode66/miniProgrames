@@ -1,15 +1,14 @@
 """
 /*
- * Crea un generador de números pseudoaleatorios entre 0 y 100.
- * - No puedes usar ninguna función "random" (o semejante) del lenguaje de programación seleccionado.
- *
- * Es más complicado de lo que parece...
+ * Crea un generador de números pseudoaleatoris entre 0 i 100.
+ * - No pots usar cap funció "random" (o semblant) del llenguatge de programació seleccionat.
  */
 """
 
 import math
 from datetime import datetime
 
+#paràmetres de la funció de Gauss
 sigma2 = 6.0
 sigma = math.sqrt(sigma2)
 mu = 0
